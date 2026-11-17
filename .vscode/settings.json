@@ -1,0 +1,24 @@
+{
+    "cSpell.words": [
+        "BADPW",
+        "ciphertext",
+        "dragover",
+        "FENC",
+        "filecrypt",
+        "fread",
+        "fsyntax",
+        "fwrite",
+        "glassmorphism",
+        "Glassmorphism",
+        "HCRYPTPROV",
+        "keystream",
+        "libsodium",
+        "MSVC",
+        "MULT",
+        "webcrypto",
+        "Wextra",
+        "Winsock",
+        "WSADATA",
+        "xorshift"
+    ]
+}

@@ -1,0 +1,6 @@
+Diagnostics:
+  Suppress: "*"
+CompileFlags:
+  Add:
+    - "-w"
+    - "-Wno-everything"

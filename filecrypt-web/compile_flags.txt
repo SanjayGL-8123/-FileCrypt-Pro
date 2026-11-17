@@ -1,0 +1,3 @@
+-fsyntax-only
+-w
+-Wno-everything
